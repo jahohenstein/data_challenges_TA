@@ -44,3 +44,6 @@ class Olist:
         You call ping I print pong.
         """
         print("pong")
+
+    def file_test(self):
+        return(__file__)
